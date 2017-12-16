@@ -1,5 +1,5 @@
 # 502
-i502 SQLite SQL query package
+i502 Traceability Database - SQL query package
 
 This project contains a collection of .sql queries that can be executed against the SQLite .db database export file available via Public Records Request to the Washington State Liquor and Cannabis Board. You MUST be a Washington State resident to submit a public records request. Detailed information on how to submit a records request can be found here: https://lcb.wa.gov/records/make-public-records-request. 
 
